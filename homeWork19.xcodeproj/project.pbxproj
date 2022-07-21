@@ -13,6 +13,7 @@
 		48113CCF2889767A00E4121A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48113CCD2889767A00E4121A /* Main.storyboard */; };
 		48113CD12889767F00E4121A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48113CD02889767F00E4121A /* Assets.xcassets */; };
 		48113CD42889767F00E4121A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48113CD22889767F00E4121A /* LaunchScreen.storyboard */; };
+		48113CDE288981FF00E4121A /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48113CDD288981FF00E4121A /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		48113CD02889767F00E4121A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		48113CD32889767F00E4121A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		48113CD52889767F00E4121A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48113CDD288981FF00E4121A /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				48113CC72889767A00E4121A /* AppDelegate.swift */,
 				48113CC92889767A00E4121A /* SceneDelegate.swift */,
 				48113CCB2889767A00E4121A /* ViewController.swift */,
+				48113CDD288981FF00E4121A /* Extensions.swift */,
 				48113CCD2889767A00E4121A /* Main.storyboard */,
 				48113CD02889767F00E4121A /* Assets.xcassets */,
 				48113CD22889767F00E4121A /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				48113CCC2889767A00E4121A /* ViewController.swift in Sources */,
 				48113CC82889767A00E4121A /* AppDelegate.swift in Sources */,
 				48113CCA2889767A00E4121A /* SceneDelegate.swift in Sources */,
+				48113CDE288981FF00E4121A /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
